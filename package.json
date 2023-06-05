@@ -16,6 +16,7 @@
     "@mdi/js": "^7.2.96",
     "@mdi/react": "^1.6.1",
     "@mui/joy": "^5.0.0-alpha.81",
+    "@vercel/analytics": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
